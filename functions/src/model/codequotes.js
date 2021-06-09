@@ -2,7 +2,7 @@ class CodeQuote {
     constructor(id, author, quote ) {
             this.id = id;
             this.author = author;
-			this.quote = quote;
+			      this.quote = quote;
   }
 }
 
